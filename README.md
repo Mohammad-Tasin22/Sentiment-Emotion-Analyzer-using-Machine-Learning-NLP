@@ -1,9 +1,10 @@
 # Sentiment-Emotion-Analyzer-using-Machine-Learning-NLP
 
 
-<h3><b>Emotion-Detection-NLP-M</b>
+<h3><b>Emotion-Detection-NLP-ML</b>
 
-Detect emotions from text using Natural Language Processing (NLP) and Machine Learning (ML). This project can identify emotions like happiness, sadness, anger, fear, and more from any text input.
+
+-Detect emotions from text using Natural Language Processing (NLP) and Machine Learning (ML). This project can identify emotions like happiness, sadness, anger, fear, and more from any text input.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
